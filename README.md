@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 
 
 
-
-# Piyush Varshney
+### Hola Amigo👋
+---
+# I am Piyush Varshney
 
 [![Twitter Badge](https://img.shields.io/badge/-@piyushvrshney-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piyushvrshney)](https://twitter.com/piyushvrshney) [![Linkedin Badge](https://img.shields.io/badge/-piyushvarshney07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushvarshney07)](https://www.linkedin.com/in/piyushvarshney07/) 
 
 <!--[![gmail Badge](https://img.shields.io/badge/-pizyuhvarshney@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](piyushvarshney@outlook.com)-->
----
-### Hola Amigo👋
----
-I am Piyush Varshney, currently working at @Synopsys , Inc. | Ex Developer @Infosys | Ex Intern @nucleussoftware.<br>
+
+Currently working at @Synopsys , Inc. | Ex Developer @Infosys | Ex Intern @nucleussoftware.<br>
 I Love doing new things and even the old things in a new way.
 
 <!--
