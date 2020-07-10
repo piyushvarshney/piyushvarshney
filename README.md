@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-# Piyush Varshney 😎
+# Piyush Varshney
 [
 ![Twitter Badge](https://img.shields.io/badge/-@piyushvrshney-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piyushvrshney)](https://twitter.com/piyushvrshney) [![Linkedin Badge](https://img.shields.io/badge/-piyushvarshney07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushvarshney07)](https://www.linkedin.com/in/piyushvarshney07/) [![gmail Badge](https://img.shields.io/badge/-piyushvarshney@outlook.com-c14438?style=flat-square&logo=gmail&logoColor=white&link="mailto:piyushvarshney@outlook.com")](piyushvarshney@outlook.com)
 
@@ -27,7 +27,7 @@ Currently at **@Synopsys , Inc.** | Ex Developer **@Infosys** | Ex Intern **@Nuc
 
 ---
 ### Hola Amigo 👋
----
+
 <br>
  I Love doing new things and even the old things in a new way.
 
