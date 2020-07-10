@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 # Piyush Varshney
 
 [![Twitter Badge](https://img.shields.io/badge/-@piyushvrshney-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piyushvrshney)](https://twitter.com/piyushvrshney) [![Linkedin Badge](https://img.shields.io/badge/-piyushvarshney07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushvarshney07)](https://www.linkedin.com/in/piyushvarshney07/) 
-[![outlook Badge](https://img.shields.io/badge/-piyuhvarshney@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](piyushvarshney@outlook.com)
+
+<!--[![gmail Badge](https://img.shields.io/badge/-pizyuhvarshney@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](piyushvarshney@outlook.com)-->
 ---
 ### Hola Amigo👋
 ---
