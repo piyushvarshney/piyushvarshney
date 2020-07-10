@@ -1,4 +1,5 @@
 
+
 <!--
 **piyushvarshney/piyushvarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,9 +29,15 @@ Currently at **@Synopsys , Inc.** | Ex Developer **@Infosys** | Ex Intern **@Nuc
 ---
 ### Hola Amigo 👋
 
-<br>
- I Love doing new things and even the old things in a new way.
 
+
+
+
+
+<hr>
+<br>
+💖 I Love doing new things and even the old things in a new way.
+<br>
 
 <!--
 ```
