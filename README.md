@@ -51,7 +51,7 @@ Programmer (noun): A machine that turns coffee into code.
 
 - :computer: I love to code in Python.
 - 🌱 Currently working as a Technical Program Manager.
-- 👯 I’m looking to collaborate on project-based on Machine Learning.
+- 👯 Would love to collaborate on projects based on Machine Learning.
 - 💬 Ask me about anything. If I didn't know, maybe I will learn something new :)
 
 
